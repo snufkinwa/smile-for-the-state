@@ -3,7 +3,7 @@
 
 #  Smile for the State
 
-*A narrative simulation exploring obedience, isolation, and digital erasure in the aftermath of democracy.*
+*A narrative simulation exploring obedience, isolation, and erasure in the aftermath of democracy.*
 
 
 
